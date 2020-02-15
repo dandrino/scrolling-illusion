@@ -7,7 +7,7 @@ your peripheral vision. You should see the sides lighten and darken as the
 scrolling lines change direction.
 
 <p align="center">
-  <img src="images/real1_grayscale.png"
+  <img src="output.gif"
 </p>
 
 ## How to Generate
