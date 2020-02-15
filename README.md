@@ -15,7 +15,7 @@ scrolling lines change direction.
 Requires Python 3 and ImageMagick
 
 ```bash
-pip3 install requirements-pip3.txt
+pip3 install -r requirements-pip3.txt
 
 bash ./create_gif.sh
 ```
